@@ -25,13 +25,13 @@ python -m SimpleHTTPServer
 
 This command starts a simple HTTP server, and you should see output indicating that the server is running.
 
-5. Open the Calculator in a Web Browser:
+4. Open the Calculator in a Web Browser:
 Open your web browser and go to http://localhost:8000.
 You should see a directory listing. Click on index.html to open your calculator.
 
-6. Interact with the Calculator:
+5. Interact with the Calculator:
 You can now interact with the calculator using your web browser.
 
-7. Stop the Server:
+6. Stop the Server:
 Go back to the Terminal where the server is running and press Ctrl + C to stop the server.
 That's it! You've successfully run a simple local web server to view your HTML, CSS, and JavaScript project.
